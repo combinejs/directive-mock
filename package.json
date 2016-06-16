@@ -1,5 +1,5 @@
 {
-  "name": "combinejs-directive-mock",
+  "name": "combinejs-empty-directive",
   "version": "0.1.0",
   "description": "This empty mock of directive",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/combinejs/directive-mock.git"
+    "url": "git+https://github.com/combinejs/empty-directive.git"
   },
   "author": "spat.ne.hochu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/combinejs/directive-mock/issues"
+    "url": "https://github.com/combinejs/empty-directive/issues"
   },
-  "homepage": "https://github.com/combinejs/directive-mock#readme"
+  "homepage": "https://github.com/combinejs/empty-directive#readme"
 }
