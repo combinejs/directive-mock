@@ -55,5 +55,5 @@ class DirectiveMock {
  *
  * @type {string}
  */
-DirectiveMock.CONST = 'Const expr';
+DirectiveMock.CONST = 'Const expression';
 
