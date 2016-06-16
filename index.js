@@ -1,4 +1,4 @@
-class DirectiveMock {
+class EmptyDirective {
     /**
      * Initialize directive when parse node
      * in parse stage can access directive expression and only this node (no parents, no childs)
@@ -55,5 +55,5 @@ class DirectiveMock {
  *
  * @type {string}
  */
-DirectiveMock.CONST = 'Const expr';
+EmptyDirective.CONST = 'Const expr';
 
