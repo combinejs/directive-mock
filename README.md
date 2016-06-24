@@ -1,0 +1,3 @@
+#empty-directive
+
+directive example
